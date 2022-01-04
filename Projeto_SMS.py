@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Projeto Hashtag
 # ## Multiplas bases de dados e envio de mensagem SMS
 # #### O projeto consiste em análise de mútiplas bases de dados para localizar uam informação e encaminhar por meio de uma mensagem SMS  
