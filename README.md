@@ -1,4 +1,4 @@
 # Envio de Mensagem utilizando Python!
 Esse repositório contém meu primeiro projeto utilizando Python!
 
-Preciso substituir o arquivo pra versão .py
+Preciso substituir o arquivo pra versão .py e arrumar esse readme!
