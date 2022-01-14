@@ -1,8 +1,5 @@
-# # Projeto Hashtag
-# ## Multiplas bases de dados e envio de mensagem SMS
-# #### O projeto consiste em análise de mútiplas bases de dados para localizar uam informação e encaminhar por meio de uma mensagem SMS  
-
-
+#  Multiplas bases de dados e envio de mensagem SMS
+#  O projeto consiste em análise de mútiplas bases de dados para localizar uam informação e encaminhar por meio de uma mensagem SMS  
 
 # Passo a Passo
 # 1. Importar (abrir) seis bases de dados; Abrir 6 arquivos em Excel
