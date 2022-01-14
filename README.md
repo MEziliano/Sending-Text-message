@@ -13,7 +13,9 @@ Esse repositório contém meu primeiro projeto utilizando Python!
 Preciso substituir o arquivo pra versão .py e arrumar esse readme!
 
 ### Tecnologias utilizadas nesse projeto!
+<div style="display: inline_block"><br> 
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" target="_blank"> 
 <a href="https://medium.com/@murilosez06" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+</div>
