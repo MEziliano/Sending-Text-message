@@ -15,14 +15,12 @@ Esse projeto consiste em buscar informações diversas bases de dados e enviar u
 Logo abaixo é possível ver o shield do Medium que contém um artigo mais detalhado sobre esse projeto (English content)
 
 ### Used in this project!
+
 <div style="display: inline_block"><br> 
-  
-<a href= "https://docs.python.org/3/tutorial/controlflow.html" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank"></a>
-  
-< a href= "https://code.visualstudio.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-  
-<a href="https://www.twilio.com/docs/libraries/python"><img align="center" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" target="_blank"></a>
-  
+ 
+<a href= "https://docs.python.org/3/tutorial/controlflow.html" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank"></a>  
+<a href="https://code.visualstudio.com"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>  
+<a href="https://www.twilio.com/docs/libraries/python"><img align="center" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" target="_blank"></a>  
 <a href="https://medium.com/@murilosez06/my-first-project-with-python-f331c22db55b" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   
 </div>
